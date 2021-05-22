@@ -1,17 +1,9 @@
-# Contact Keeper
+# Sales Contacts
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication. Part of my React course on Udemy.
 
-This is the full app. The API can be found [here](https://github.com/bradtraversy/contact_keeper_api) with documented endpoints
-
-## Usage
-
-Install dependencies
-
-```bash
-npm install
-npm client-install
-```
+This is a reactjs tutorial using react hooks and json web token authentication.
+A project to help those learning reactjs to work with useContext, useEffects, Alerts, and NodeJS
 
 ### Mongo connection setup
 
